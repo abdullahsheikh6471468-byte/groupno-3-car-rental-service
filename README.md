@@ -22,20 +22,4 @@ You can visit our project and view the source code through the links below:
 
 ---
 
-## **Website Screenshots**
 
-### **1. Home Page**
-![Home Page](C:\Users\USER\Desktop\excel\web)
-
-### **2. Car Fleet (Audi, BMW, Honda)**
-![Fleet Page](C:\Users\USER\Desktop\excel\bmw)
-
-### **3. Booking System**
-![Booking Page](C:\Users\USER\Desktop\excel\book now)
-
-### **4. Excel Data Analysis & Dashboard**
-![Excel Dashboard](C:\Users\USER\Desktop\excel\dashboard)
-
----
-
-> **Note:** Screenshots ko display karne ke liye apni images ko GitHub repository mein upload karein aur `(Insert_Image_Path_Here)` ki jagah unka sahi file path likhein.
